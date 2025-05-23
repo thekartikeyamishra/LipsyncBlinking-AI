@@ -11,7 +11,7 @@ Bring your characters to life! This Google Colab notebook provides a simple, int
 The tool provides a clean interface to manage your inputs and generate animations:
 
 *(Image: `ui_overview.PNG` provided by user)*
-![Main UI Screenshot]([assets/ui_overview.png](https://github.com/thekartikeyamishra/LipsyncBlinking-AI/blob/main/assets/ui_overview.PNG))
+![Main UI Screenshot]([https://github.com/thekartikeyamishra/LipsyncBlinking-AI/blob/main/assets/ui_overview.PNG])
 *Caption: Main interface for uploading your character image, providing audio (via YouTube URL or file upload), selecting face enhancement options, and generating the animation.*
 
 ## 🌟 Features
