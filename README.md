@@ -59,13 +59,6 @@ The tool provides a clean interface to manage your inputs and generate animation
 * **`ffmpeg`:** For audio processing.
 * **`ipywidgets`:** For creating the interactive UI components in Colab.
 
-## 📁 Repository Structure
-├── README.md               
-├── Interactive_Lipsync_Animator.ipynb # The Google Colab notebook
-└── assets/                  # Folder for images used in README
-└── ui_overview.png      # Example: Your uploaded asas.PNG renamed
-
-
 ## 🤝 Contributing
 
 While this is a self-contained Colab tool, suggestions for improving the UI, adding more SadTalker parameter controls, or enhancing error handling are welcome!
